@@ -6,7 +6,6 @@
   "url": "https://github.com/nikunjness/backlinkgenie-mcp",
   "readme": "https://github.com/nikunjness/backlinkgenie-mcp#readme",
   "runtime": "node",
-  "license": "MIT",
   "env": {},
   "remotes": [
     {
